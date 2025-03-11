@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Louise Guest</h1>
+        <p>Front-End Developer | JavaScript | React</p>
+    </header>
+    <section id="projects">
+        <h2>My Projects</h2>
+        <div class="project">
+            <h3>Portfolio Website</h3>
+            <p>A personal portfolio built with HTML, CSS, and JavaScript.</p>
+            <a href="https://github.com/yourgithub" target="_blank">GitHub Repo</a>
+        </div>
+    </section>
+</body>
+</html>
